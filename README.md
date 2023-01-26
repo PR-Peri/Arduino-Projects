@@ -1,6 +1,5 @@
-# PRs_ArduinoProjects
-Self-implemented projects from scratch and some basics
-
+# Arduino Projects
+Small Projects 
 
 1) Ultrasonic Sensor Description
 
